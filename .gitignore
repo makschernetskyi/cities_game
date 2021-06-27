@@ -1,0 +1,4 @@
+/Server/venv
+/Web_client/build/*
+/Web_client/node_modules
+/.git
